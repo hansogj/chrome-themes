@@ -1,0 +1,32 @@
+{
+   "description": "",
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC94iu6DQojH4fXDiWZ2bD/5doO5E8p29rAVc4S7q+VMEqze6eQUWUjYzxbgXmFWFjUAvLlQKaP1MlBvye0qXfmqEQFp0YFAkfZTR0uM/BqT3E3mKQkax0oz1B+Nm8sXMWCx/iZGdqMt+a/GLEA0igh/Y4+rTATqrsfAWGgq/q+swIDAQAB",
+   "manifest_version": 2,
+   "name": "Nursery Cryme",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 70, 56, 19 ],
+         "button_background": [ 0, 0, 0, 0 ],
+         "frame": [ 166, 148, 62 ],
+         "ntp_background": [ 255, 255, 255 ],
+         "ntp_text": [ 250, 242, 161 ],
+         "tab_background_text": [ 70, 56, 19 ],
+         "tab_text": [ 70, 56, 19 ],
+         "toolbar": [ 250, 242, 161 ]
+      },
+      "images": {
+         "theme_frame": "images/theme_frame.png",
+         "theme_ntp_background": "images/theme_ntp_background.jpeg",
+         "theme_tab_background": "images/theme_tab_background.png",
+         "theme_toolbar": "images/theme_toolbar.png"
+      },
+      "properties": {
+         "ntp_background_alignment": "top",
+         "ntp_background_repeat": "no-repeat"
+      },
+      "tints": {
+         "buttons": [ 0, 0, 0.5 ]
+      }
+   },
+   "version": "1"
+}

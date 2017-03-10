@@ -1,0 +1,32 @@
+{
+   "description": "",
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDFEnnzSd9LPhA4yR5PzEH+urdL3IaDKX1+E9Al92izaCS9ai0KUIWd5Sp5jhLRdA2uPrZQoYKvfV81Xf7xFgRls33CvVw+JT4TGw1E105F0lfshtnRrjHv3CxYS1V6RNDKR8D177q59GvCpyAUoXL+1MgpREiceND3hucF5I7BHwIDAQAB",
+   "manifest_version": 2,
+   "name": "ThemeBeta.com",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 24, 24, 24 ],
+         "button_background": [ 0, 0, 0, 0 ],
+         "frame": [ 96, 96, 96 ],
+         "ntp_background": [ 255, 255, 255 ],
+         "ntp_text": [ 211, 211, 211 ],
+         "tab_background_text": [ 24, 24, 24 ],
+         "tab_text": [ 24, 24, 24 ],
+         "toolbar": [ 211, 211, 211 ]
+      },
+      "images": {
+         "theme_frame": "images/theme_frame.png",
+         "theme_ntp_background": "images/theme_ntp_background.jpeg",
+         "theme_tab_background": "images/theme_tab_background.png",
+         "theme_toolbar": "images/theme_toolbar.png"
+      },
+      "properties": {
+         "ntp_background_alignment": "bottom",
+         "ntp_background_repeat": "no-repeat"
+      },
+      "tints": {
+         "buttons": [ 0, 0, 0.5 ]
+      }
+   },
+   "version": "1"
+}
