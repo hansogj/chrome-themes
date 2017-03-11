@@ -1,0 +1,32 @@
+{
+   "description": "",
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDQpKyrR7n43h/4czqWuRpORvbIMy/KpQEJCI/xw+2Kj8b06Hh+zN6X2LtwHE1d38Bx4TkAo/9PQrLoyXIzM10jydbdlFNul3o9XwLZjOshWZLZYcfWT4PCkWRTYQ3zM66m9Jei8xPyMSqQSlBfj3maaK0gw3rH40vL0G87hLniIwIDAQAB",
+   "manifest_version": 2,
+   "name": "Darth Vader",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 188, 211, 228 ],
+         "button_background": [ 0, 0, 0, 0 ],
+         "frame": [ 5, 5, 8 ],
+         "ntp_background": [ 255, 255, 255 ],
+         "ntp_text": [ 188, 211, 228 ],
+         "tab_background_text": [ 5, 5, 8 ],
+         "tab_text": [ 188, 211, 228 ],
+         "toolbar": [ 5, 5, 8 ]
+      },
+      "images": {
+         "theme_frame": "images/theme_frame.png",
+         "theme_ntp_background": "images/theme_ntp_background.jpeg",
+         "theme_tab_background": "images/theme_tab_background.png",
+         "theme_toolbar": "images/theme_toolbar.png"
+      },
+      "properties": {
+         "ntp_background_alignment": "bottom",
+         "ntp_background_repeat": "no-repeat"
+      },
+      "tints": {
+         "buttons": [ 0, 0, 0.5 ]
+      }
+   },
+   "version": "1"
+}
